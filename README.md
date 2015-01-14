@@ -28,7 +28,7 @@
 
 ## Pipelines
 
-- This project uses a pipeline to extract all blog posts in a specific day(ex '2015-01-14')
+- This project uses a pipeline to extract all blog posts in a specific date(ex '2015-01-14')
 - This pipeline is defined in the class:
 
         naverblog.pipelines.NaverblogPipeline
